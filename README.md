@@ -1,10 +1,10 @@
 # Payment API Documentation
 
-This project contains developer documentation for a fictional Payment API.
+This is a developer documentation for a fictional Payment API.
 
 ## About the Project
 
-The goal of this project is to demonstrate how to write clear and structured API documentation for developers.
+The goal of this documentation is to demonstrate how to write clear and structured API documentation for developers.
 
 It covers:
 
@@ -25,9 +25,3 @@ I created this project to practice API documentation and improve my ability to e
 
 - Markdown
 - Visual Studio Code
-
----
-
-## How to Use
-
-Browse through the documentation files to understand how the API works and how to integrate it into an application.
