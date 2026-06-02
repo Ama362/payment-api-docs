@@ -17,11 +17,11 @@ It covers:
 
 ## Why I Built This
 
-I created this project to practice API documentation and improve my ability to explain technical systems clearly.
+I created this documentation to show API documentation and improve my ability to explain technical systems clearly.
 
 ---
 
 ## Tools Used
 
-- Markdown
+- JSON
 - Visual Studio Code
